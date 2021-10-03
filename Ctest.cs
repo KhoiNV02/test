@@ -15,7 +15,7 @@ namespace alpha_test
     
         public void kaka()
         {
-            Console.WriteLine("khong phai la haha nua ne");
+            Console.WriteLine(" phai la haha nua ne");
         }       
     }
  public  class ok 
